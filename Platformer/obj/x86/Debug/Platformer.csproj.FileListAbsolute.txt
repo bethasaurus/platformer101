@@ -1,0 +1,112 @@
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\Platformer.exe.config
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\Platformer.exe
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\Platformer.pdb
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.dll
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.xml
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\Content\front.png
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\Platformer.exe.config
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\Content\front.png
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\Platformer.exe
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\Platformer.pdb
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.dll
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.xml
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+E:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\Content\ground.png
+F:\Data\Teaching\Example - Platformer\Platformer\Platformer\bin\Windows\Debug\Content\ground.png
+L:\Platformer\Platformer\bin\Windows\Debug\Platformer.exe.config
+L:\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+L:\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+L:\Platformer\Platformer\bin\Windows\Debug\Content\front.png
+L:\Platformer\Platformer\bin\Windows\Debug\Content\ground.png
+L:\Platformer\Platformer\bin\Windows\Debug\Platformer.exe
+L:\Platformer\Platformer\bin\Windows\Debug\Platformer.pdb
+L:\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.dll
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.dll
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.dll
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.dll
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.dll
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.dll
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.dll
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.dll
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.dll
+L:\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.xml
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.xml
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.xml
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.xml
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.xml
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.xml
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.xml
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.xml
+L:\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.xml
+L:\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\Platformer.exe.config
+F:\AIE progrmming\coding- programs\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+F:\AIE progrmming\coding- programs\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\Content\front.png
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\Content\ground.png
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\Platformer.exe
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\Platformer.pdb
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.dll
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.dll
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.dll
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\MonoGame.Framework.xml
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.xml
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.XInput.xml
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\AIE progrmming\coding- programs\Platformer\Platformer\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\AIE progrmming\coding- programs\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
